@@ -1,4 +1,4 @@
-// alert("Hii, I'm Your Daily Task List");
+alert("Hii, I'm Your Daily Task List");
 console.log("hi");
 
 const input = document.getElementById("text1");
