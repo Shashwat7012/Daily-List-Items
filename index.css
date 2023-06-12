@@ -51,7 +51,7 @@ body{
 }
 #submit{
     height:30px;
-    width:50%;
+    width:30%;
     background-color: black;
     color:white;
     font-size: 20px;
@@ -100,4 +100,17 @@ ul li.check:checked{
     border-radius: 50%;
     color:white;
     background-color: black;
+}
+#submit2{
+    height:30px;
+    width:auto;
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    box-shadow: 3px 3px 40px #FF0060;  
+    margin-bottom: 20px; 
+    margin-top: 20px;
+}
+#submit2:hover{
+    box-shadow: 3px 3px 40px blue;
 }
